@@ -1,7 +1,7 @@
 {
-    "name": "Jarvis",
+    "name": "NICKMERlIN",
     "version":"1.0.0",
-    "description": "Jarvis Multi Device whatsappbot",
+    "description": "NICKMERlIN Multi Device whatsappbot",
     "logo": "https://i.imgur.com/PmfMtfa.jpeg",
     "keywords": ["whatsapp"],
     "repository": "https://github.com/Loki-Xer/Jarvis",
@@ -51,7 +51,7 @@
         "WORK_TYPE": {
             "description": "worker type public or private",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "HEROKU_APP_NAME": {
             "description": "heroku app name, same as above entered",
@@ -69,7 +69,7 @@
         "SUDO": {
             "description": "owner number of the bot",
             "required": false,
-            "value":"41782221168"
+            "value":"254113419479"
         }
     },
       "addons": [{
